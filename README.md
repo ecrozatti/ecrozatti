@@ -3,7 +3,7 @@ I'm software developer at [Capuani do Brasil S/A](http://capuani.com.br/).
 
 - 👨 I'm currently... 
 - 👨‍💻 working with Visual Basic, VB.NET, C#, Oracle 19c and Crystal Reports.
-- 📚 learning Node.js, ReactJS and React Native.
+- 📚 studing Node.js, ReactJS and React Native.
 - 🚀 developing [Capuani Web Application](https://app.capuani.com.br).
 - ⚡ available for freelance projects opportunities.
 
