@@ -1,10 +1,10 @@
 ### 👋 Hi there! 
-I'm software developer at [Capuani do Brasil S/A](http://capuani.com.br/).
+I'm software developer at [CI&T](https://ciandt.com/br/pt-br).
 
 - 👨 I'm currently... 
-- 👨‍💻 working with Visual Basic, VB.NET, C#, Oracle 19c and Crystal Reports.
+- 👨‍💻 working with Node.js, AWS Cloud (Lambda, API Gateway, SQS, SNS, SES, CloudWatch, DynamoDB and Aurora), Azure AD B2C, Serverless and microservices.
 - 📚 studing Node.js, ReactJS and React Native.
-- 🚀 developing [Capuani Web Application](https://app.capuani.com.br).
+- 🚀 development: [Capuani Web Application](https://app.capuani.com.br).
 - ⚡ available for freelance projects opportunities.
 
 ### 📫 How to reach me
