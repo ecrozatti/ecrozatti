@@ -2,7 +2,7 @@
 I'm software developer at [CI&T](https://ciandt.com/br/pt-br).
 
 - 👨 I'm currently... 
-- 👨‍💻 working with Node.js, AWS Cloud (Lambda, API Gateway, SQS, SNS, SES, CloudWatch, DynamoDB and Aurora), Azure AD B2C, Serverless and microservices.
+- 👨‍💻 working with Node.js, AWS Cloud (Lambda, API Gateway, SQS, SNS, SES, CloudWatch, DynamoDB and Aurora), Microsoft Azure AD B2C, NestJS, Serverless and microservices.
 - 📚 studing Node.js, ReactJS and React Native.
 - 🚀 development: [Capuani Web Application](https://app.capuani.com.br).
 - ⚡ available for freelance projects opportunities.
